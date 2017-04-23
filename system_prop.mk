@@ -213,3 +213,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Fastcharge
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.sys.le_fast_chrg_enable=1
+
+# Google Assistant
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.opa.eligible_device=true
+
+# MusicFX disable
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.musicfx.disabled=true
