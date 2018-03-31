@@ -188,7 +188,7 @@ PRODUCT_PACKAGES += \
 
 # Doze mode
 PRODUCT_PACKAGES += \
-    Doze
+    OneplusThreeDoze
 
 # DRM
 PRODUCT_PACKAGES += \
